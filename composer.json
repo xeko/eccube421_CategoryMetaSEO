@@ -1,0 +1,12 @@
+{
+  "name": "ec-cube/danhmucmetaseo",
+  "version": "1.0.0",
+    "description": "Danh Muc SEO",
+  "type": "eccube-plugin",
+  "require": {
+    "ec-cube/plugin-installer": "~0.0.7 || ^2.0"
+  },
+  "extra": {
+    "code": "DanhmucMetaSEO"
+  }
+}
