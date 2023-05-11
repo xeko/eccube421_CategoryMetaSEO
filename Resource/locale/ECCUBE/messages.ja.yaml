@@ -1,0 +1,4 @@
+admin.product.category_csv.cseo_title_col: SEO_タイトル
+admin.product.category_csv.cseo_title_flag_description: '[SEO]タイトルのディスクリプション'
+admin.product.category_csv.cseo_keywords_col: SEO_キーワード
+admin.product.category_csv.cseo_keywords_flag_description: '[SEO]キーワードのディスクリプション'
